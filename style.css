@@ -1,0 +1,24 @@
+h3{
+    font-size: 50px;
+  background-color: white;
+    margin-top: 60px;
+    margin-left: 400px;
+    margin-right: 300px;
+    padding: 10px;
+}
+.container{
+    margin-top: 40px;
+    display: block;
+    background-color: white;
+}
+p{
+   
+    text-align: justify;
+    border: 4px solid black;
+    padding: 20px;
+  
+}
+
+.style{
+    color: blueviolet;
+}
